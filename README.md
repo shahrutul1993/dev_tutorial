@@ -1,24 +1,22 @@
-Root PortFolio
+# Root PortFolio
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> this is ruby on rails appilicationallows to user tocreate your own portfolio
 
-Things you may want to cover:
+### Features
 
-* Ruby version
+-real time chat for comment
+-ruby on rails
+-blog
+-portfolio
 
-* System dependencies
+### code example
 
-* Configuration
+```ruby
+	def my_great_method
+	  puts "hello"
+	 end
+```
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```javascript
+	alert('hi there');
+```	 
