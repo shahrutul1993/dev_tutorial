@@ -22,7 +22,7 @@ puts "10 blog created"
 		title: "Rails #{skill}",
 		percent_utilized: 15
 )
-end
+ends
 
 puts "5 skill created"
 
