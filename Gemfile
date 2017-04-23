@@ -62,4 +62,5 @@ end
 gem "binding_of_caller"
 
 gem 'devise'
+gem 'pry-rails', :group => :development
 
