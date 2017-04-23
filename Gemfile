@@ -52,4 +52,14 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'friendly_id', '~> 5.1.0'
+
+gem 'mailboxer'
+
+group :development do
+  gem "better_errors"
+end
+
+gem "binding_of_caller"
+
 gem 'devise'
+
