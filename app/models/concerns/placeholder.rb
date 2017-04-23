@@ -1,3 +1,4 @@
+
 module Placeholder
 	extend ActiveSupport::Concern
 
@@ -6,3 +7,5 @@ module Placeholder
 	end
 
 end
+
+
