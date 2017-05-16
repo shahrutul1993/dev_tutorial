@@ -4,4 +4,11 @@ alias rc="rails console"
 alias rg="rails generate"
 alias bi="bundle install"
 alias bu="bundle update"
-
+alias gst='git status'
+alias gpull='git pull'
+alias gpush='git push'
+alias gc='git commit -m'
+alias gcheck='git checkout -b'
+alias gb='git branch'
+alias gpob='git push origin $(git_current_branch)'
+alias ga='git add '
