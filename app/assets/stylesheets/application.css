@@ -56,21 +56,24 @@ body {
 }
 
 /* Padding for spacing */
-.inner {
+/*.inner {
   padding: 2rem;
-}
+}*/
 
 
 /*
  * Header
  */
+ .nav-masthead{
+  margin-top: 21px;
+ }
 
 .masthead {
   margin-bottom: 2rem;
 }
 
 .masthead-brand {
-  margin-bottom: 0;
+  margin-bottom: 10px;
 }
 
 .nav-masthead .nav-link {
@@ -79,6 +82,7 @@ body {
   color: rgba(255,255,255,.5);
   background-color: transparent;
   border-bottom: .25rem solid transparent;
+  text-decoration: none;
 }
 
 .nav-masthead .nav-link:hover,
